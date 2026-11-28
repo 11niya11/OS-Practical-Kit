@@ -1,6 +1,7 @@
 
 #include <stdio.h>
 #include <sys/utsname.h>
+#include <string.h>
 
 int main() {
     struct utsname system;
