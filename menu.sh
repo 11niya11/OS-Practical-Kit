@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+
 
 REPO_RAW="https://raw.githubusercontent.com/11niya11/OS-Practical-Kit/main"
 WORKDIR="$HOME/os_viva_run"
